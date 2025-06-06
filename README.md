@@ -2,3 +2,4 @@
 ## Dinamica del Commit Historiador
 
 [JIM] Primera Frase
+[MARCO] Segunda Frase
