@@ -2,6 +2,7 @@
 ## Dinamica del Commit Historiador
 
 [JIM] Primera Frase
+
 [MARCO] La vida es un riesgo carnal
 [RODRIGO] Tercera frase
 [Adaniel] Cuarta frase
