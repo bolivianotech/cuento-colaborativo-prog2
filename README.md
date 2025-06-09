@@ -16,3 +16,5 @@
 [Fabrizzio] Sexta frase
 
 [Flavio] Octava frase 
+
+[JIM] Vamos que se puede ...... quienes falten ya no tendran su puntaje por este ejercicio
