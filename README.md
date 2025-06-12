@@ -18,4 +18,5 @@
 [Flavio] Octava frase 
 
 [DANIELA] Novena frase
+
 [JIM] Vamos que se puede ...... quienes falten ya no tendran su puntaje por este ejercicio
